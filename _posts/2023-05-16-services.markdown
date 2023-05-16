@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ZackProfilePicture.jpg
+img: ZackHeaderPicture.jpg
 category: Documents
 title: About Me!
 description: |
