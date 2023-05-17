@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons. filler
+img: WorkHistory.png
+category: Documents
+title: Past Work History
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+   Here is an overview of my previous professional experience and the team environments I have been a part of during my career thus far.
+[Previous Work Experience](http://linkedin.com/in/zacklacanna).
