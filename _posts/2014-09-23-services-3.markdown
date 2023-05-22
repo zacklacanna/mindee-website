@@ -6,4 +6,5 @@ title: Past Work History
 description: |
 ---
    Here is an overview of my previous professional experience and the team environments I have been a part of during my career thus far.
+   
 [Previous Work Experience](http://linkedin.com/in/zacklacanna).
