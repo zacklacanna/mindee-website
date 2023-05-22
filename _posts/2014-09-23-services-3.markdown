@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ResumeBackground1.jpeg
+img: ResumeIcon.jpg
 category: Documents
 title: Past Work History
 description: |
