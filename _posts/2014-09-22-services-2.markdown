@@ -6,4 +6,5 @@ title: Previous Projects
 description: |
 ---
   Here are the projects I have been involved in throughout my academic and professional journey in the field of Computer Science. These projects encompass a mix of individual and collaborative efforts. 
+  
   [Past Projects](http://www.github.com/zacklacanna)
