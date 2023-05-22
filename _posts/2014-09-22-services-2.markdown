@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ProjectsIcon.png
+img: CodingProjectIcoon.png
 category: Documents
 title: Previous Projects
 description: |
