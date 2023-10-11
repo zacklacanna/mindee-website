@@ -138,16 +138,16 @@ h6 {
     }
 }
 
-@media(max-width:827px) {
+@media(max-width:897px) {
     .banner h2 {
         margin: 0;
         text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-        font-size: 3em;
+        font-size: 2em;
     }
 
     ul.banner-social-buttons > li {
         display: block;
-        margin-bottom: 20px;
+        margin-bottom: 15px;
         padding: 0;
     }
 
