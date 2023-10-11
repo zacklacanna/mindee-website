@@ -5,4 +5,4 @@ category: Documents
 title: About Me!
 description: |
 ---
-  My name is Zack LaCanna and I currently am pursing my undergraduate degree in Computer Science and Cybersecurity at Arizona State University. All the links below lead to previous projects I have worked on and learning opportunities I have had in my Computer Science journey. As well as my email to contact me with any questions or thoughts you may have !!!
+  My name is Mindee Rosen .....
