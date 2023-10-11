@@ -127,15 +127,15 @@ h6 {
 }
 
 .banner-social-buttons {
-    float: right;
+    //float: right;
     margin-top: 0;
-    width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
-    padding: 25px;
+    //width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    //padding: 25px;
 }
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
-        float: left;
+        // float: left;
         margin-top: 15px;
     }
 }
@@ -150,14 +150,13 @@ h6 {
     ul.banner-social-buttons > li {
         display: flex;
         margin-bottom: 15px;
-        width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
-        padding: 25px;
-        padding: 0;
+        //width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
+        //padding: 25px;
+        //padding: 0;
     }
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
-        width: 25%;
     } 
 }
 
