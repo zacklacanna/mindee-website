@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://zacklacanna.dev
-title: Zack LaCanna
-email: <a href="mailto:zacklacanna23@gmail.com">zacklacanna23@gmail.com</a>
+url: 
+title: Mindee Rosen
+email: <a href="mailto:mindee@lacanna.net">mindee@lacanna.net</a>
 author: Zack LaCanna
 description: >  
-  Here you can see previous projects I have contributed on over the course of my Computer Science journey.
+  Coaching women to infinite possibilites with spiritual health, prosperity, and wealth changes. 
   
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,9 +22,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: github
-    url: https://github.com/zacklacanna
-  - title: linkedin
+  - title: facebook
+    url: https://www.facebook.com/mindee.rosen
+  - title: calender
     url: https://linkedin.com/in/zacklacanna
   - title: email
-    url: mailto:zacklacanna23@gmail.com
+    url: mailto:mindee@lacanna.net
